@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material Design 默认颜色 -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- 主题颜色 - 灰白简约风格 -->
+    <color name="primary">#757575</color>
+    <color name="primary_dark">#616161</color>
+    <color name="accent">#448AFF</color>
+
+    <!-- 背景色 -->
+    <color name="background_light">#FAFAFA</color>
+    <color name="toolbar_background">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="chip_background">#F5F5F5</color>
+    <color name="chip_selected">#E0E0E0</color>
+
+    <!-- 文字颜色 -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+
+    <!-- 分割线 -->
+    <color name="divider_light">#EEEEEE</color>
+    <color name="divider">#E0E0E0</color>
+
+    <!-- FAB颜色 -->
+    <color name="fab_background">#616161</color>
+
+    <!-- 标签预设颜色 -->
+    <color name="tag_red">#EF5350</color>
+    <color name="tag_green">#66BB6A</color>
+    <color name="tag_blue">#42A5F5</color>
+    <color name="tag_orange">#FFA726</color>
+    <color name="tag_purple">#AB47BC</color>
+    <color name="tag_teal">#26A69A</color>
+    <color name="tag_grey">#78909C</color>
+    <color name="tag_brown">#8D6E63</color>
+
+    <!-- 格式按钮颜色 - 与主题统一的灰色系 -->
+    <color name="format_button_default">#424242</color>
+    <color name="format_button_active_bg">#616161</color>
+    <color name="format_button_active_icon">#E0E0E0</color>
+
+</resources>
